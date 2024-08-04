@@ -33,3 +33,6 @@
 /6502Lib/cmake-build-debug/
 /6502Tests/cmake-build-debug/
 /cmake-build-debug/
+/ya6502e/cmake-build-debug/
+/ya6502e/6502Lib/cmake-build-debug/
+/ya6502e/6502Tests/cmake-build-debug/

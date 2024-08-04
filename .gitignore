@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/6502Lib/cmake-build-debug/
+/6502Tests/cmake-build-debug/
+/cmake-build-debug/

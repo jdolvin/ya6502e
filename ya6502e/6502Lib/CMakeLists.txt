@@ -7,7 +7,7 @@ add_compile_options(-W -Wall -Werror) #All warnings, all warning are errors
 set (YA6502E_Sources
         "include/cpu.h"
         "src/cpu.cpp"
-        "src/main_6502.cpp" include/memory.h include/types.h)
+        "src/main_6502.cpp" include/memory.h include/types.h include/io_device.h)
 
 source_group("src" FILES ${YA6502E_Sources})
 
